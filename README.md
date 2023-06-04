@@ -1,1 +1,1 @@
-# Image_Classification
+First of all to avoid wasting time we ran the code on kaggle by forking notebook and we editied it on our wn you can find it referenced in the formal report however we trainned and compiled the model on kaggle then saved it using tensorflow and keras to an h5 file so that we can use the model easily moreover in the code we added the traiining and the compilation of the models but it is commented and then the model is excuted by the tensorflow.load we added the epochs too so that you can view them.
